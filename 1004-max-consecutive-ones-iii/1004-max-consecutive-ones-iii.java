@@ -23,8 +23,7 @@ class Solution {
 
         return maxLength;
     }
-}
-        // given binary , so [2];
+}       // when binary problems ; focus on bad element eg: zeroCount = 0;
         // return maximum no of consecutive of " 1's "
         //flip the 0's to 1's
         // focues on no of " 0's"
