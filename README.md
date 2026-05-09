@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0169-majority-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Database
 |  |
 | ------- |
