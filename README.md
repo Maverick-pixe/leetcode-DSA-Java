@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0567-permutation-in-string) |
 ## Binary Search
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0169-majority-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Database
