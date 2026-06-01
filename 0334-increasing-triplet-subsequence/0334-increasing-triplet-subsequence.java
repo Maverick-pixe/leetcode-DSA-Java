@@ -5,12 +5,12 @@ class Solution {
         int second = Integer.MAX_VALUE;
         for(int i = 0;i<n;i++){
             if(nums[i] <= first){
-                first = nums[i];
+                first = nums[i];     //O(n). Single pass through the array, doing O(1) work per element.
                
             }else if(nums[i] <= second){
                   second = nums[i];
                 }
-            else{
+            else{            // O(1). Only two extra variables 
                 return true;
             }
             }
