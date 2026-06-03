@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
