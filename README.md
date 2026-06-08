@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0334-increasing-triplet-subsequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0567-permutation-in-string) |
 ## Binary Search
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
