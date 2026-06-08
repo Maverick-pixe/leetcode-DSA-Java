@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0567-permutation-in-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
