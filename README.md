@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0041-first-missing-positive) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0334-increasing-triplet-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
