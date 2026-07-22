@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
