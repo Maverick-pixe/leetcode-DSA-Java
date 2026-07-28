@@ -1,56 +1,66 @@
 class MyLinkedList {
-    private class Node {
-        int val;
-        Node next;
-        Node(int val) {
-            this.val = val;
-        }
-    }
 
-    private Node sentinel;
+private class Node{
+    int val;
+    Node next;
+     
+     Node(int val){
+        this.val = val;
+     }
+}
+    private Node dummy;
     private int size;
-
     public MyLinkedList() {
-        sentinel = new Node(0);
-        size = 0;
+         dummy = new Node(0);
+         size = 0;
     }
-
+    
     public int get(int index) {
-        if (index < 0 || index >= size) return -1;
-        Node current = sentinel.next;
-        for (int i = 0; i < index; i++) {
-            current = current.next;
+        if(index < 0 || index >= size ) return -1;
+        Node curr = dummy.next;
+        for(int i  = 0;i<index;i++){
+            curr = curr.next;
         }
-        return current.val;
+        return curr.val;
     }
-
+    
     public void addAtHead(int val) {
-        addAtIndex(0, val);
+        addAtIndex(0,val);
     }
-
+    
     public void addAtTail(int val) {
-        addAtIndex(size, val);
+        addAtIndex(size,val);
     }
-
+    
     public void addAtIndex(int index, int val) {
-        if (index < 0 || index > size) return;
-        Node pred = sentinel;
-        for (int i = 0; i < index; i++) {
-            pred = pred.next;
-        }
-        Node newNode = new Node(val);
-        newNode.next = pred.next;
-        pred.next = newNode;
-        size++;
+      if(index < 0 || index > size ) return ;
+      Node temp = dummy;
+      for(int i = 0;i<index;i++){
+        temp = temp.next;
+      }
+      Node newNode = new Node(val);
+      newNode.next = temp.next;
+     temp.next = newNode;
+      size++;
     }
-
+    
     public void deleteAtIndex(int index) {
-        if (index < 0 || index >= size) return;
-        Node pred = sentinel;
-        for (int i = 0; i < index; i++) {
-            pred = pred.next;
-        }
-        pred.next = pred.next.next;
-        size--;
+         if(index < 0 || index >= size ) return ;
+         Node temp = dummy;
+         for(int i = 0;i<index;i++){
+            temp = temp.next;
+         }
+         temp.next = temp.next.next;
+         size--;
     }
 }
+
+/**
+ * Your MyLinkedList object will be instantiated and called as such:
+ * MyLinkedList obj = new MyLinkedList();
+ * int param_1 = obj.get(index);
+ * obj.addAtHead(val);
+ * obj.addAtTail(val);
+ * obj.addAtIndex(index,val);
+ * obj.deleteAtIndex(index);
+ */
