@@ -10,16 +10,19 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode curr = head;
-        
+      if(head == null|| head.next == null) return head;
 
-        while(curr != null){
-          ListNode next = curr.next;
-          curr.next = prev;
-          prev = curr;
-          curr = next;
-        }
-        return prev;
+      Stack<Integer> stack = new Stack<>();    //time complexity is o(n)
+      ListNode curr = head;
+      while(curr!= null){
+        stack.add(curr.val);
+        curr = curr.next;
+      } 
+      curr = head;
+      while(curr!= null){
+        curr.val = stack.pop();       // space is also O(n);
+        curr = curr.next;
+      } 
+      return head;
     }
 }
