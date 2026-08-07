@@ -10,13 +10,17 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        List<ListNode> nodes = new ArrayList<>();
+        int count = 0;
         ListNode curr = head;
-
         while(curr != null){
-            nodes.add(curr);
+            count++;
+            curr = curr.next;            
+        }
+        int mid = count /2;
+        curr = head;
+        for(int i = 0;i<mid;i++){
             curr = curr.next;
         }
-        return nodes.get(nodes.size()/2);
+        return curr;
     }
 }
