@@ -9,31 +9,31 @@
  * }
  */
 class Solution {
+    public void reverse(List<Integer> list,int left,int right ){
+        while(left<right){
+        int temp = list.get(left);
+        list.set(left,list.get(right));
+        list.set(right,temp);
+        left++;
+        right--;
+        }
+    }
+
     public ListNode reverseBetween(ListNode head, int left, int right) {
         List<Integer> vals = new ArrayList<>();
         ListNode curr = head;
-        int pos = 1;
         while(curr != null){
-        if(pos >=left &&  pos <= right){
             vals.add(curr.val);
+            curr = curr.next;
         }
-        curr = curr.next;
-        pos++;
-        }
-
-        Collections.reverse(vals);
+        reverse(vals,left-1,right-1);
         curr = head;
-         pos = 1;
-        int idx =0;
+        
+        int i = 0;
         while(curr != null){
-            if(pos >=left &&  pos <= right){
-            curr.val = vals.get(idx);
-            idx++;
-        }
-        curr= curr.next;
-       pos++;
+           curr.val = vals.get(i++);
+           curr = curr.next;
         }
         return head;
     }
-    
-}
+    }
