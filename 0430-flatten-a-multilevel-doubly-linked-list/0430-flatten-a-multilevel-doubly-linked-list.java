@@ -1,32 +1,35 @@
+/*
+// Definition for a Node.
+class Node {
+    public int val;
+    public Node prev;
+    public Node next;
+    public Node child;
+};
+*/
+
 class Solution {
     public Node flatten(Node head) {
-        if (head == null) return null;
-
-        // Use a stack to simulate DFS
-        Stack<Node> stack = new Stack<>();
+        
+        if(head == null) return null;
+        Stack<Node> stack  = new Stack<>();
         stack.push(head);
-        Node prev = new Node(0); // dummy previous node
+        Node prev = new Node(0);
+        while(!stack.isEmpty()){
+           Node curr = stack.pop();
 
-        while (!stack.isEmpty()) {
-            Node curr = stack.pop();
+           prev.next = curr;
+           curr.prev = prev;
 
-            // Link current node to previous
-            prev.next = curr;
-            curr.prev = prev;
-
-            // Push next first (processed later), then child (processed sooner)
-            if (curr.next != null) {
-                stack.push(curr.next);
-            }
-            if (curr.child != null) {
-                stack.push(curr.child);
-                curr.child = null; // clear the child pointer
-            }
-
-            prev = curr;
+           if(curr.next != null){
+            stack.push(curr.next);
+           }
+           if(curr.child != null){
+            stack.push(curr.child);
+            curr.child = null;
+           }
+           prev = curr;
         }
-
-        // Detach the dummy node
         head.prev = null;
         return head;
     }
