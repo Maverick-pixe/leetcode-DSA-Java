@@ -1,19 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int n= nums.length;
-
-        for(int i = 0;i<n;i++){
-            Boolean isSingle  = true;
-            for(int j = 0;j<n;j++){
-                if(i != j && nums[i] == nums[j]){
-                    isSingle = false;
-                    break;
-                }
-            }
-        if(isSingle){
-            return nums[i];
+        int result  = 0 ;
+        for(int num: nums){
+            result ^= num;
         }
-        }
-        return -1;
+        return result;
     }
 }
