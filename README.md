@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -218,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
