@@ -1,17 +1,20 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int n = prices.length;
-        int minPrice = Integer.MAX_VALUE;
-        int maxProfit = 0;
-         
-        for(int price : prices){
-            if(price <minPrice){        // O(n). We make a single pass through the array, 
-                minPrice = price;            //  doing O(1) work at each step.
+        int currSum = 0;
+        int maxSum = 0;
+
+        for(int i = 1;i< prices.length;i++){
+            int diff = prices[i]- prices[i-1];
+            if(currSum + diff > 0){
+                currSum += diff;
             }
-            else{                              //O(1). We only use two variables
-                maxProfit = Math.max(maxProfit,price - minPrice);
+            else{
+                currSum = 0;
+            }
+            if( currSum > maxSum){
+                maxSum = currSum;
             }
         }
-        return maxProfit;
+        return maxSum;
     }
 }
