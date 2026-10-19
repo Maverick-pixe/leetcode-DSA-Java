@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0338-counting-bits) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Maverick-pixe/leetcode-DSA-Java/tree/master/0191-number-of-1-bits) |
 ## Counting
