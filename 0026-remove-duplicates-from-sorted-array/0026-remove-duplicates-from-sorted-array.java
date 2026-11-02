@@ -1,13 +1,19 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
         int n = nums.length;
-        int insertPos = 1;
-        for(int i = 1;i<n;i++){
-            if(nums[i] != nums[insertPos -1]){
-                 nums[insertPos]= nums[i];
-                insertPos++;
-            }
+        int k = 0;
+        Set<Integer> set = new HashSet<>();
+        for(int num : nums){
+            set.add(num);
+            k++;
         }
-        return insertPos;
+        List<Integer> unique = new ArrayList<>(set);
+        Collections.sort(unique);
+
+        for(int i =0;i<unique.size();i++){
+            nums[i] = unique.get(i);
+
+        }
+        return unique.size();
     }
 }
